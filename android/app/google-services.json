@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351393407492",
+    "project_id": "booktrackerapp-455d3",
+    "storage_bucket": "booktrackerapp-455d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351393407492:android:4db5c4803cb261775acb51",
+        "android_client_info": {
+          "package_name": "flutter.msg.book_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351393407492-oqmr2m41acpjg2ee0ri8o8drt4cupob7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-9oBFWHXNriqpBiX6WbOLvJS5Aye38TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351393407492-oqmr2m41acpjg2ee0ri8o8drt4cupob7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
